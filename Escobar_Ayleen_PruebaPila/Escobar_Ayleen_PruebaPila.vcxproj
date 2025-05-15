@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Escobar_Ayleen_PruebaPila.cpp" />
+    <ClCompile Include="Pila.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Pila.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
